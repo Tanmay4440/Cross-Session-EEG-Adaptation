@@ -1,0 +1,28 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & environments
+.pytest_cache/
+.venv/
+env/
+venv/
+ENV/
+
+# Large Datasets & Competition Binaries
+official data/
+*.gdf
+*.zip
+*.mat
+
+# Local Reference Documentation & Private Reports
+reports/
+bci_complete_foundation_guide.md
+master_experimental_protocol.md
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini

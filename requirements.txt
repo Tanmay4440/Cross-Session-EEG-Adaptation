@@ -1,0 +1,13 @@
+# Core scientific and signal processing dependencies
+numpy>=1.26.0
+scipy>=1.12.0
+mne>=1.6.0
+scikit-learn>=1.4.0
+pyriemann>=0.5
+pandas>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Testing and reporting
+pytest>=8.0.0
+reportlab>=4.0.0
